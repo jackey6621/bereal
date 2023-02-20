@@ -1,4 +1,4 @@
-# Project 5 - *Name of App Here*
+# Project 5 - BeReal
 
 Submitted by: Jingyuan Yang
 BeReal is an app that allows users to upload pictures.  
